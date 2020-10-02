@@ -36,6 +36,9 @@ button {
   color: white;
   font-family: "digital-7";
 }
+button:hover {
+  background-color:#5dade2;
+}
 #screen {
   width: 540px;
   height: 50px;
